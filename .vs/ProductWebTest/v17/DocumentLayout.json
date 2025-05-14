@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "Dockerfile",
               "ToolTip": "C:\\Users\\asus\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ProductWebTest\\ProductWebTest\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-05-14T19:06:27.654Z",
               "EditorCaption": ""
@@ -161,9 +161,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\asus\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ProductWebTest\\ProductWebTest\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T13:23:35.752Z"
+              "WhenOpened": "2025-05-14T13:23:35.752Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
