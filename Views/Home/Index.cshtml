@@ -1,0 +1,20 @@
+﻿@model List<ConsumerApp.Models.Product>
+
+<h1>Список продуктов</h1>
+
+@if (Model.Any())
+{
+    <ul>
+        @foreach (var product in Model)
+        {
+            <li>
+                <a asp-action="Details" asp-route-id="@product.Id">@product.Name</a> - @product.Price ₽
+                (@(product.Category?.Name ?? "Без категории"))
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>Продукты не найдены.</p>
+}

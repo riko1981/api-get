@@ -1,0 +1,19 @@
+﻿@model ConsumerApp.Models.Review
+
+<h1>Добавить отзыв</h1>
+
+<form asp-action="AddReview" method="post">
+    <input type="hidden" asp-for="ProductId" />
+    <div>
+        <label asp-for="Content">Отзыв:</label>
+        <textarea asp-for="Content" rows="5" cols="50"></textarea>
+        <span asp-validation-for="Content" style="color: red;"></span>
+    </div>
+    <button type="submit">Отправить</button>
+</form>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+}
