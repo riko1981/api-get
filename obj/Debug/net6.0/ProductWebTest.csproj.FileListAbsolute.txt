@@ -352,3 +352,4 @@ C:\Users\asus\Новая папка\ProductWebTest\ProductWebTest\obj\Debug\net6
 C:\Users\asus\Новая папка\ProductWebTest\ProductWebTest\obj\Debug\net6.0\ProductWebTest.pdb
 C:\Users\asus\Новая папка\ProductWebTest\ProductWebTest\obj\Debug\net6.0\ProductWebTest.genruntimeconfig.cache
 C:\Users\asus\Новая папка\ProductWebTest\ProductWebTest\obj\Debug\net6.0\ref\ProductWebTest.dll
+C:\Users\asus\Новая папка\ProductWebTest\ProductWebTest\obj\Debug\net6.0\ProductWebTest.sourcelink.json
